@@ -1,5 +1,5 @@
 ## Title of the Project
-## AI NUTRITION ANALYZER
+# AI NUTRITION ANALYZER
 
 ## About
 The AI Nutrition Analyzer is a smart system designed to analyze food consumption and provide nutritional information using Artificial Intelligence.
